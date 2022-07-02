@@ -2,9 +2,9 @@
     "name": "starfinder-2e",
     "title": "Starfinder 2e (A Pathfinder 2e Conversion Module)",
     "description": "A module containing the exported Starfinder 2e (A Pathfinder 2e Conversion Module) compendium.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "library": "false",
-    "manifestPlusVersion": "0.0.3",
+    "manifestPlusVersion": "0.0.4",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
     "author": "PowerWordCast, RealDungeonBros",
@@ -13,85 +13,85 @@
             "type": "Item",
             "label": "Classes (sf2e)",
             "module": "starfinder-2e",
-            "path": "packs/world-classes-sf2e-1655658511613.db",
-            "name": "world-classes-sf2e-1655658511613"
+            "path": "packs/world-classes-sf2e-1656775018632.db",
+            "name": "world-classes-sf2e-1656775018632"
         },
         {
             "type": "Item",
             "label": "Ancestries",
             "module": "starfinder-2e",
-            "path": "packs/world-ancestries-1655658511613.db",
-            "name": "world-ancestries-1655658511613"
+            "path": "packs/world-ancestries-1656775018632.db",
+            "name": "world-ancestries-1656775018632"
         },
         {
             "type": "Item",
             "label": "Equipment (sf2e)",
             "module": "starfinder-2e",
-            "path": "packs/world-equipment-sf2e-1655658511613.db",
-            "name": "world-equipment-sf2e-1655658511613"
+            "path": "packs/world-equipment-sf2e-1656775018632.db",
+            "name": "world-equipment-sf2e-1656775018632"
         },
         {
             "type": "Item",
             "label": "Ranged Combat Effects (sf2e)",
             "module": "starfinder-2e",
-            "path": "packs/world-ranged-combat-effects-sf2e-1655658511613.db",
-            "name": "world-ranged-combat-effects-sf2e-1655658511613"
+            "path": "packs/world-ranged-combat-effects-sf2e-1656775018632.db",
+            "name": "world-ranged-combat-effects-sf2e-1656775018632"
         },
         {
             "type": "Item",
             "label": "Ranged Combat Macros (sf2e)",
             "module": "starfinder-2e",
-            "path": "packs/world-ranged-combat-macros-sf2e-1655658511613.db",
-            "name": "world-ranged-combat-macros-sf2e-1655658511613"
+            "path": "packs/world-ranged-combat-macros-sf2e-1656775018632.db",
+            "name": "world-ranged-combat-macros-sf2e-1656775018632"
         },
         {
             "type": "Item",
             "label": "Lores (sf2e)",
             "module": "starfinder-2e",
-            "path": "packs/world-lores-sf2e-1655658511613.db",
-            "name": "world-lores-sf2e-1655658511613"
+            "path": "packs/world-lores-sf2e-1656775018632.db",
+            "name": "world-lores-sf2e-1656775018632"
         },
         {
             "type": "Item",
             "label": "Class Features (sf2e)",
             "module": "starfinder-2e",
-            "path": "packs/world-class-features-sf2e-1655658511613.db",
-            "name": "world-class-features-sf2e-1655658511613"
+            "path": "packs/world-class-features-sf2e-1656775018632.db",
+            "name": "world-class-features-sf2e-1656775018632"
         },
         {
             "type": "Item",
             "label": "Feats (sf2e)",
             "module": "starfinder-2e",
-            "path": "packs/world-feats-sf2e-1655658511613.db",
-            "name": "world-feats-sf2e-1655658511613"
+            "path": "packs/world-feats-sf2e-1656775018632.db",
+            "name": "world-feats-sf2e-1656775018632"
         },
         {
             "type": "Item",
             "label": "Universal Creature Rules (sf2e)",
             "module": "starfinder-2e",
-            "path": "packs/world-universal-creature-rules-sf2e-1655658511613.db",
-            "name": "world-universal-creature-rules-sf2e-1655658511613"
+            "path": "packs/world-universal-creature-rules-sf2e-1656775018632.db",
+            "name": "world-universal-creature-rules-sf2e-1656775018632"
         },
         {
             "type": "Item",
             "label": "Starship Actions (sf2e)",
             "module": "starfinder-2e",
-            "path": "packs/world-starship-actions-sf2e-1655658511613.db",
-            "name": "world-starship-actions-sf2e-1655658511613"
+            "path": "packs/world-starship-actions-sf2e-1656775018632.db",
+            "name": "world-starship-actions-sf2e-1656775018632"
         },
         {
             "type": "Item",
             "label": "Heritages (sf2e)",
             "module": "starfinder-2e",
-            "path": "packs/world-heritages-sf2e-1655658511613.db",
-            "name": "world-heritages-sf2e-1655658511613"
+            "path": "packs/world-heritages-sf2e-1656775018632.db",
+            "name": "world-heritages-sf2e-1656775018632"
         },
         {
             "type": "Item",
             "label": "Actions (sf2e)",
             "module": "starfinder-2e",
-            "path": "packs/world-actions-sf2e-1655658511613.db",
-            "name": "world-actions-sf2e-1655658511613"
+            "path": "packs/world-actions-sf2e-1656775018632.db",
+            "name": "world-actions-sf2e-1656775018632"
         }
     ],
     "manifest": "https://raw.githubusercontent.com/RevCivic/FVTT-PF2e-SF2e/main/module.json",
