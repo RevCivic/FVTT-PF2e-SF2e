@@ -8,6 +8,9 @@
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
     "author": "PowerWordCast, RealDungeonBros",
+    "scripts": [
+        "scripts/ammo-check.js"
+    ],
     "packs": [
         {
             "type": "Item",
