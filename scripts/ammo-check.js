@@ -7,5 +7,5 @@ ConsumablePF2e.prototype.isAmmoFor = function(item : ItemPF2e):boolean{
     }
 
     const { max } = this.uses;
-    return ((item.traits.has("repeating")) || item.traits.has("hb_powered")) ? max > 1 : max <= 1;
+    return ((item.traits.has("repeating" || "hb_powered")) ? max > 1 : max <= 1;
 }
