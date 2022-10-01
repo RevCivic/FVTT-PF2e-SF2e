@@ -1,119 +1,123 @@
 {
-    "id": "starfinder-2e",
-    "title": "Starfinder 2e (A Pathfinder 2e Conversion Module)",
-    "description": "A module containing the exported Starfinder 2e (A Pathfinder 2e Conversion Module) compendium.",
-    "version": "0.0.97",
-    "library": "false",
-    "manifestPlusVersion": "0.0.97",
-    "compatibility": {
-        "minimum": "9",
-        "verified": "10.284"
+  "id": "starfinder-2e",
+  "title": "Starfinder 2e (A Pathfinder 2e Conversion Module)",
+  "description": "A module containing the exported Starfinder 2e (A Pathfinder 2e Conversion Module) compendium.",
+  "version": "0.0.97",
+  "library": "false",
+  "manifestPlusVersion": "0.0.97",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.284"
+  },
+  "authors": [
+    {
+      "name": "PowerWordCast"
     },
-    "authors": [
-        {"name":"PowerWordCast"},
-        {"name":"RealDungeonBros"}
-    ],
-    "scripts": [
-        "scripts/ammo-check.js"
-    ],
-    "packs": [
-        {
-            "type": "Item",
-            "system": "pf2e",
-            "label": "Classes (sf2e)",
-            "module": "starfinder-2e",
-            "path": "packs/world-classes-sf2e-1662472094815.db",
-            "name": "world-classes-sf2e-1662472094815"
-        },
-        {
-            "type": "Item",
-            "system": "pf2e",
-            "label": "Equipment (sf2e)",
-            "module": "starfinder-2e",
-            "path": "packs/world-equipment-sf2e-1662472094815.db",
-            "name": "world-equipment-sf2e-1662472094815"
-        },
-        {
-            "type": "Item",
-            "system": "pf2e",
-            "label": "Ranged Combat Effects (sf2e)",
-            "module": "starfinder-2e",
-            "path": "packs/world-ranged-combat-effects-sf2e-1662472094815.db",
-            "name": "world-ranged-combat-effects-sf2e-1662472094815"
-        },
-        {
-            "type": "Item",
-            "system": "pf2e",
-            "label": "Ranged Combat Macros (sf2e)",
-            "module": "starfinder-2e",
-            "path": "packs/world-ranged-combat-macros-sf2e-1662472094815.db",
-            "name": "world-ranged-combat-macros-sf2e-1662472094815"
-        },
-        {
-            "type": "Item",
-            "label": "Lores (sf2e)",
-            "system": "pf2e",
-            "module": "starfinder-2e",
-            "path": "packs/world-lores-sf2e-1662472094815.db",
-            "name": "world-lores-sf2e-1662472094815"
-        },
-        {
-            "type": "Item",
-            "system": "pf2e",
-            "label": "Class Features (sf2e)",
-            "module": "starfinder-2e",
-            "path": "packs/world-class-features-sf2e-1662472094815.db",
-            "name": "world-class-features-sf2e-1662472094815"
-        },
-        {
-            "type": "Item",
-            "system": "pf2e",
-            "label": "Feats (sf2e)",
-            "module": "starfinder-2e",
-            "path": "packs/world-feats-sf2e-1662472094815.db",
-            "name": "world-feats-sf2e-1662472094815"
-        },
-        {
-            "type": "Item",
-            "system": "pf2e",
-            "label": "Universal Creature Rules (sf2e)",
-            "module": "starfinder-2e",
-            "path": "packs/world-universal-creature-rules-sf2e-1662472094815.db",
-            "name": "world-universal-creature-rules-sf2e-1662472094815"
-        },
-        {
-            "type": "Item",
-            "system": "pf2e",
-            "label": "Starship Actions (sf2e)",
-            "module": "starfinder-2e",
-            "path": "packs/world-starship-actions-sf2e-1662472094815.db",
-            "name": "world-starship-actions-sf2e-1662472094815"
-        },
-        {
-            "type": "Item",
-            "system": "pf2e",
-            "label": "Heritages (sf2e)",
-            "module": "starfinder-2e",
-            "path": "packs/world-heritages-sf2e-1662472094815.db",
-            "name": "world-heritages-sf2e-1662472094815"
-        },
-        {
-            "type": "Item",
-            "system": "pf2e",
-            "label": "Actions (sf2e)",
-            "module": "starfinder-2e",
-            "path": "packs/world-actions-sf2e-1662472094815.db",
-            "name": "world-actions-sf2e-1662472094815"
-        },
-        {
-            "type": "Item",
-            "system": "pf2e",
-            "label": "Ancestries (sf2e)",
-            "module": "starfinder-2e",
-            "path": "packs/world-ancestries-sf2e-1662472094815.db",
-            "name": "world-ancestries-sf2e-1662472094815"
-        }
-    ],
-    "manifest": "https://raw.githubusercontent.com/RevCivic/FVTT-PF2e-SF2e/main/module.json",
-    "download": "https://github.com/RevCivic/FVTT-PF2e-SF2e/archive/refs/tags/0.0.97.zip"
+    {
+      "name": "RealDungeonBros"
+    }
+  ],
+  "scripts": [
+    "scripts/ammo-check.js"
+  ],
+  "packs": [
+    {
+      "type": "Item",
+      "system": "pf2e",
+      "label": "Classes (sf2e)",
+      "module": "starfinder-2e",
+      "path": "packs/world-classes-sf2e-1662472094815.db",
+      "name": "world-classes-sf2e-1662472094815"
+    },
+    {
+      "type": "Item",
+      "system": "pf2e",
+      "label": "Equipment (sf2e)",
+      "module": "starfinder-2e",
+      "path": "packs/world-equipment-sf2e-1662472094815.db",
+      "name": "world-equipment-sf2e-1662472094815"
+    },
+    {
+      "type": "Item",
+      "system": "pf2e",
+      "label": "Ranged Combat Effects (sf2e)",
+      "module": "starfinder-2e",
+      "path": "packs/world-ranged-combat-effects-sf2e-1662472094815.db",
+      "name": "world-ranged-combat-effects-sf2e-1662472094815"
+    },
+    {
+      "type": "Item",
+      "system": "pf2e",
+      "label": "Ranged Combat Macros (sf2e)",
+      "module": "starfinder-2e",
+      "path": "packs/world-ranged-combat-macros-sf2e-1662472094815.db",
+      "name": "world-ranged-combat-macros-sf2e-1662472094815"
+    },
+    {
+      "type": "Item",
+      "label": "Lores (sf2e)",
+      "system": "pf2e",
+      "module": "starfinder-2e",
+      "path": "packs/world-lores-sf2e-1662472094815.db",
+      "name": "world-lores-sf2e-1662472094815"
+    },
+    {
+      "type": "Item",
+      "system": "pf2e",
+      "label": "Class Features (sf2e)",
+      "module": "starfinder-2e",
+      "path": "packs/world-class-features-sf2e-1662472094815.db",
+      "name": "world-class-features-sf2e-1662472094815"
+    },
+    {
+      "type": "Item",
+      "system": "pf2e",
+      "label": "Feats (sf2e)",
+      "module": "starfinder-2e",
+      "path": "packs/world-feats-sf2e-1662472094815.db",
+      "name": "world-feats-sf2e-1662472094815"
+    },
+    {
+      "type": "Item",
+      "system": "pf2e",
+      "label": "Universal Creature Rules (sf2e)",
+      "module": "starfinder-2e",
+      "path": "packs/world-universal-creature-rules-sf2e-1662472094815.db",
+      "name": "world-universal-creature-rules-sf2e-1662472094815"
+    },
+    {
+      "type": "Item",
+      "system": "pf2e",
+      "label": "Starship Actions (sf2e)",
+      "module": "starfinder-2e",
+      "path": "packs/world-starship-actions-sf2e-1662472094815.db",
+      "name": "world-starship-actions-sf2e-1662472094815"
+    },
+    {
+      "type": "Item",
+      "system": "pf2e",
+      "label": "Heritages (sf2e)",
+      "module": "starfinder-2e",
+      "path": "packs/world-heritages-sf2e-1662472094815.db",
+      "name": "world-heritages-sf2e-1662472094815"
+    },
+    {
+      "type": "Item",
+      "system": "pf2e",
+      "label": "Actions (sf2e)",
+      "module": "starfinder-2e",
+      "path": "packs/world-actions-sf2e-1662472094815.db",
+      "name": "world-actions-sf2e-1662472094815"
+    },
+    {
+      "type": "Item",
+      "system": "pf2e",
+      "label": "Ancestries (sf2e)",
+      "module": "starfinder-2e",
+      "path": "packs/world-ancestries-sf2e-1662472094815.db",
+      "name": "world-ancestries-sf2e-1662472094815"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/RevCivic/FVTT-PF2e-SF2e/main/module.json",
+  "download": "https://github.com/RevCivic/FVTT-PF2e-SF2e/archive/refs/tags/0.0.97.zip"
 }
