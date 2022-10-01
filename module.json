@@ -2,9 +2,9 @@
     "name": "starfinder-2e",
     "title": "Starfinder 2e (A Pathfinder 2e Conversion Module)",
     "description": "A module containing the exported Starfinder 2e (A Pathfinder 2e Conversion Module) compendium.",
-    "version": "0.0.96",
+    "version": "0.0.97",
     "library": "false",
-    "manifestPlusVersion": "0.0.96",
+    "manifestPlusVersion": "0.0.97",
     "compatibility": [
         {
             "minimum": "9",
@@ -116,5 +116,5 @@
         }
     ],
     "manifest": "https://github.com/RevCivic/FVTT-PF2e-SF2e/edit/main/module.json",
-    "download": "https://github.com/RevCivic/FVTT-PF2e-SF2e/archive/refs/tags/0.0.96.zip"
+    "download": "https://github.com/RevCivic/FVTT-PF2e-SF2e/archive/refs/tags/0.0.97.zip"
 }
