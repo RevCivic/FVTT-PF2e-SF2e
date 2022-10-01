@@ -1,6 +1,5 @@
 {
     "id": "starfinder-2e",
-    "name": "starfinder-2e",
     "title": "Starfinder 2e (A Pathfinder 2e Conversion Module)",
     "description": "A module containing the exported Starfinder 2e (A Pathfinder 2e Conversion Module) compendium.",
     "version": "0.0.97",
@@ -10,14 +9,11 @@
         "minimum": "9",
         "verified": "10.284"
     },
-    "minimumCoreVersion": "9",
-    "compatibleCoreVersion": "9",
-    "author": "PowerWordCast, RealDungeonBros",
     "authors": [
         {"name":"PowerWordCast"},
         {"name":"RealDungeonBros"}
     ],
-    "esmodules": [
+    "scripts": [
         "scripts/ammo-check.js"
     ],
     "packs": [
