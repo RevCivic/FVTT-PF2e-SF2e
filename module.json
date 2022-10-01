@@ -14,12 +14,8 @@
     "compatibleCoreVersion": "9",
     "author": "PowerWordCast, RealDungeonBros",
     "authors": [
-        {
-            "name":"PowerWordCast"
-        },
-        {
-            "name":"RealDungeonBros"
-        }
+        {"name":"PowerWordCast"},
+        {"name":"RealDungeonBros"}
     ],
     "esmodules": [
         "scripts/ammo-check.js"
