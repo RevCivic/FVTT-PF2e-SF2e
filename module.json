@@ -14,6 +14,7 @@
     "packs": [
         {
             "type": "Item",
+            "system": "pf2e",
             "label": "Classes (sf2e)",
             "module": "starfinder-2e",
             "path": "packs/world-classes-sf2e-1662472094815.db",
@@ -21,6 +22,7 @@
         },
         {
             "type": "Item",
+            "system": "pf2e",
             "label": "Equipment (sf2e)",
             "module": "starfinder-2e",
             "path": "packs/world-equipment-sf2e-1662472094815.db",
@@ -28,6 +30,7 @@
         },
         {
             "type": "Item",
+            "system": "pf2e",
             "label": "Ranged Combat Effects (sf2e)",
             "module": "starfinder-2e",
             "path": "packs/world-ranged-combat-effects-sf2e-1662472094815.db",
@@ -35,6 +38,7 @@
         },
         {
             "type": "Item",
+            "system": "pf2e",
             "label": "Ranged Combat Macros (sf2e)",
             "module": "starfinder-2e",
             "path": "packs/world-ranged-combat-macros-sf2e-1662472094815.db",
@@ -43,12 +47,14 @@
         {
             "type": "Item",
             "label": "Lores (sf2e)",
+            "system": "pf2e",
             "module": "starfinder-2e",
             "path": "packs/world-lores-sf2e-1662472094815.db",
             "name": "world-lores-sf2e-1662472094815"
         },
         {
             "type": "Item",
+            "system": "pf2e",
             "label": "Class Features (sf2e)",
             "module": "starfinder-2e",
             "path": "packs/world-class-features-sf2e-1662472094815.db",
@@ -56,6 +62,7 @@
         },
         {
             "type": "Item",
+            "system": "pf2e",
             "label": "Feats (sf2e)",
             "module": "starfinder-2e",
             "path": "packs/world-feats-sf2e-1662472094815.db",
@@ -63,6 +70,7 @@
         },
         {
             "type": "Item",
+            "system": "pf2e",
             "label": "Universal Creature Rules (sf2e)",
             "module": "starfinder-2e",
             "path": "packs/world-universal-creature-rules-sf2e-1662472094815.db",
@@ -70,6 +78,7 @@
         },
         {
             "type": "Item",
+            "system": "pf2e",
             "label": "Starship Actions (sf2e)",
             "module": "starfinder-2e",
             "path": "packs/world-starship-actions-sf2e-1662472094815.db",
@@ -77,6 +86,7 @@
         },
         {
             "type": "Item",
+            "system": "pf2e",
             "label": "Heritages (sf2e)",
             "module": "starfinder-2e",
             "path": "packs/world-heritages-sf2e-1662472094815.db",
@@ -84,6 +94,7 @@
         },
         {
             "type": "Item",
+            "system": "pf2e",
             "label": "Actions (sf2e)",
             "module": "starfinder-2e",
             "path": "packs/world-actions-sf2e-1662472094815.db",
@@ -91,6 +102,7 @@
         },
         {
             "type": "Item",
+            "system": "pf2e",
             "label": "Ancestries (sf2e)",
             "module": "starfinder-2e",
             "path": "packs/world-ancestries-sf2e-1662472094815.db",
