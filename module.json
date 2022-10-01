@@ -5,6 +5,12 @@
     "version": "0.0.96",
     "library": "false",
     "manifestPlusVersion": "0.0.96",
+    "compatibility": [
+        {
+            "minimum": "9",
+            "verified": "10.284"
+        }
+    ]
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
     "author": "PowerWordCast, RealDungeonBros",
