@@ -21,6 +21,7 @@
     ],
     "packs": [
         {
+            "system": "pf2e",
             "name": "world-classes-sf2e-1662472094815",
             "label": "Classes (sf2e)",
             "path": "./packs/world-classes-sf2e-1662472094815.db",
@@ -29,6 +30,7 @@
             
         },
         {
+            "system": "pf2e",
             "name": "world-equipment-sf2e-1662472094815",
             "label": "Equipment (sf2e)",
             "path": "./packs/world-equipment-sf2e-1662472094815.db",
@@ -36,15 +38,15 @@
             "entity": "Item"
         },
         {
+            "system": "pf2e",
             "name": "world-ranged-combat-effects-sf2e-1662472094815",
             "label": "Ranged Combat Effects (sf2e)",
             "path": "./packs/world-ranged-combat-effects-sf2e-1662472094815.db",
             "type": "Item",
             "entity": "Item"
-            
-            
         },
         {
+            "system": "pf2e",
             "name": "world-lores-sf2e-1662472094815",
             "label": "Lores (sf2e)",
             "path": "./packs/world-lores-sf2e-1662472094815.db",
@@ -52,6 +54,7 @@
             "entity": "Item"
         },
         {
+            "system": "pf2e",
             "name": "world-class-features-sf2e-1662472094815",
             "label": "Class Features (sf2e)",
             "path": "./packs/world-class-features-sf2e-1662472094815.db",
@@ -59,6 +62,7 @@
             "entity": "Item"
         },
         {
+            "system": "pf2e",
             "name": "world-feats-sf2e-1662472094815",
             "label": "Feats (sf2e)",
             "path": "./packs/world-feats-sf2e-1662472094815.db",
@@ -66,6 +70,7 @@
             "entity": "Item"
         },
         {
+            "system": "pf2e",
             "name": "world-universal-creature-rules-sf2e-1662472094815",
             "label": "Universal Creature Rules (sf2e)",
             "path": "./packs/world-universal-creature-rules-sf2e-1662472094815.db",
@@ -73,6 +78,7 @@
             "entity": "Item"
         },
         {
+            "system": "pf2e",
             "name": "world-starship-actions-sf2e-1662472094815",
             "label": "Starship Actions (sf2e)",
             "path": "./packs/world-starship-actions-sf2e-1662472094815.db",
@@ -80,6 +86,7 @@
             "entity": "Item"            
         },
         {
+            "system": "pf2e",
             "name": "world-heritages-sf2e-1662472094815",
             "label": "Heritages (sf2e)",
             "path": "./packs/world-heritages-sf2e-1662472094815.db",
@@ -87,6 +94,7 @@
             "entity": "Item"
         },
         {
+            "system": "pf2e",
             "name": "world-actions-sf2e-1662472094815",
             "label": "Actions (sf2e)",
             "path": "./packs/world-actions-sf2e-1662472094815.db",
@@ -94,6 +102,7 @@
             "entity": "Item"
         },
         {
+            "system": "pf2e",
             "name": "world-ancestries-sf2e-1662472094815",
             "label": "Ancestries (sf2e)",
             "path": "./packs/world-ancestries-sf2e-1662472094815.db",
